@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body{
+    background-color: #c4c4c4;
+}
+
+header {
+    width: 1400px;
+    margin: 100px auto;
+    padding: 0px 115px;
+    background-color: #fff;
+}
+
+.inner {
+width: 1170px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+    height: 100px;
+    
+    /* margin-left: 114px; */
+}
+
+.menu_03 {
+    background-color: #2F1893;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+   
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logo_01 {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.menu {
+    display: flex;
+    gap: 45px;
+    font-size: 16px;
+}
+
+.menu_01 {
+    display: flex;
+    gap: 45px;
+    font-size: 16px;
+    color: white;
+}
+
+.menu_01 a {
+    color: white;
+}
+
+.sign {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.sign a {
+    color: white;
+}
+
+.social {
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+}
+
+.social a {
+    color: #151439;
+    opacity: 40%;
+}
+
+.sign .right {
+    background-color: #482BE7;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.sign .in {
+    background-color: #E93A7D;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
