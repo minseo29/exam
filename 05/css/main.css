@@ -113,14 +113,14 @@
     opacity: 40%;
 }
 
-.photo {
+.photo_01 {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    margin-bottom: 55.2px;
+    margin-bottom: 52px;
 }
 
-.photo p {
+.photo_01 p {
     font-size: 14px;
     opacity: 40%;
 }
