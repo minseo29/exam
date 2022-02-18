@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.top {
+    background-color: #2F1893;
+    padding: 100px 0;
+}
+
+.inner {
+    width: 780px;
+    margin: 0 auto;
+}
+
+.text {
+    margin-bottom: 157px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.text h1 {
+    color: #FFFFFF;
+    font-size: 58px;
+    font-weight: bold;
+}
+
+.text p {
+    color: #ffff;
+    font-size: 14;
+    font-weight: bold;
+}
+
+.profile {
+    display: flex;
+    gap: 23px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.info h2 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffff;
+}
+
+.info p {
+    color: #ffff;
+    font-size: 16px;
+}
+
+.social {
+    display: flex;
+    gap: 20px;
+}
+
+.social a {
+    color: #ffff;
+    font-size: 18px;
+}
+
+.wrapper {
+    margin-top: 68.8px;
+}
+
+.info_box {
+    margin-bottom: 130.2px;
+}
+
+.Branding {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-bottom: 61px;
+}
+
+.Branding h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #1E0E62;
+}
+
+.Branding p {
+    font-size: 16px;
+    opacity: 40%;
+}
+
+.Perfect {
+    display: flex;
+    flex-direction: column;
+    gap: 14.8px;
+    margin-bottom: 47.2px;
+}
+
+.Perfect h2 {
+    color: #1E0E62;
+    font-size: 22px;
+}
+
+.Perfect p {
+    font-size: 16px;
+    opacity: 40%;
+}
+
+.photo {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 55.2px;
+}
+
+.photo p {
+    font-size: 14px;
+    opacity: 40%;
+}
+
+.Report {
+    display: flex;
+    flex-direction: column;
+    gap: 13.6px;
+}
+
+.Report h3 {
+    color: #1E0E62;
+    font-size: 22px;
+}
+
+.Report p {
+    font-size: 16px;
+    opacity: 40%;
+    margin-bottom: 42.2px;
+}
+
+.Report_01 {
+    display: flex;
+    flex-direction: column;
+    gap: 31px;
+    padding: 0 28px;
+    margin-bottom: 42.8px;
+}
+
+.Report_01 h4 {
+    font-size: 18px;
+    color: #1E0E62;
+    font-weight: 500;
+}
+
+.footer P {
+    font-size: 16px;
+    opacity: 40%;
+}
